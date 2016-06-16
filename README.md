@@ -19,7 +19,7 @@ Example:
 import (
     "fmt"
 
-    "github.com/DeanThompson/syncmap"
+    "github.com/todostreaming/syncmap"
 )
 
 func main() {
